@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/static/css/main.073c9b0a.css",
     "main.js": "/static/js/main.683bc6c4.js",
     "static/media/logo.svg": "/static/media/logo.2d27ead7c10f774c5306bcf3c257a728.svg",
@@ -10,5 +11,17 @@
   "entrypoints": [
     "static/css/main.073c9b0a.css",
     "static/js/main.683bc6c4.js"
+=======
+    "main.css": "./static/css/main.073c9b0a.css",
+    "main.js": "./static/js/main.597cd1a6.js",
+    "static/media/logo.svg": "./static/media/logo.2d27ead7c10f774c5306bcf3c257a728.svg",
+    "index.html": "./index.html",
+    "main.073c9b0a.css.map": "./static/css/main.073c9b0a.css.map",
+    "main.597cd1a6.js.map": "./static/js/main.597cd1a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.597cd1a6.js"
+>>>>>>> 881cfe2 (frontend-deployment2)
   ]
 }
