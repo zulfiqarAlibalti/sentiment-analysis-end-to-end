@@ -13,7 +13,6 @@
   </p>
 </p>
 
-![image]({https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white})
-![image]({https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white})
+
 
 
